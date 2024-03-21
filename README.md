@@ -9,9 +9,11 @@
 - https://github.com/CHULBOONG/SpiritEscape
 
 
+
 - 아쿠아로드 지역 퀘스트 시나리오 기획서 포트폴리오 영상 버전
 - 포트폴리오를 게임 제작 툴 RenPy로 구현하고 영상편집 툴로 수정하였습니다.
 - https://www.youtube.com/watch?v=bgUiA0zsxG4
+
 
 
 <게임 외 링크>
@@ -20,9 +22,11 @@
  - https://github.com/CHULBOONG/HAI
 
 
+
  - 인턴 중 구글 구매 내역 검수용 자동화툴 제작
  - 유료 재화 구매 테스트 후 구글 아이디, 비밀번호를 메모장에 적고 실행면 자동으로 로그인하여 실제로 구매내역을 자동으로 엑셀에 작성해줍니다.
  - https://github.com/CHULBOONG/GoogleOrderHistory
+
 
 
  - 마이크로프로세서 응용설계실습 엘리베이터 시뮬(2022 1학기)
