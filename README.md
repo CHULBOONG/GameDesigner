@@ -4,8 +4,8 @@
 
 아래는 포트폴리오 외 내용들에 대한 설명입니다. <br/><br/>
 
-
-https://github.com/CHULBOONG/GameDesigner/blob/main/metaphor
+# 메타포 논문 관련 설명
+(https://github.com/CHULBOONG/GameDesigner/blob/main/metaphor.md)
 
 # <게임 관련 링크>
 ## XR비즈니스 기획
