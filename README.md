@@ -15,8 +15,8 @@
 - https://www.youtube.com/watch?v=bgUiA0zsxG4   <br/><br/>
 
 ## 창작 비주얼노벨 영상 링크
-- 현재 개발 진행중인 게임이다보니 완성본이 아니지만 지금까지의 구현 내용들
-- (https://www.youtube.com/watch?v=L8TZdlRY0wE)   <br/><br/>
+- 현재 개발 진행중인 게임이다보니 완성본이 아니지만 지금까지의 구현 내용들을 보여주는 영상 링크입니다.
+- https://www.youtube.com/watch?v=L8TZdlRY0wE   <br/><br/>
 ![image](https://github.com/CHULBOONG/GameDesigner/assets/58451379/87f7ad06-8049-498d-ba66-7c0232f71a9f)
 
 
