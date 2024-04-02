@@ -16,13 +16,13 @@
 
 ## 창작 비주얼노벨 영상 링크
 - 현재 개발 진행중인 게임이다보니 완성본이 아니지만 지금까지의 구현 내용들
-- (링크 추가 예정)   <br/><br/>
+- (https://www.youtube.com/watch?v=L8TZdlRY0wE)   <br/><br/>
 ![image](https://github.com/CHULBOONG/GameDesigner/assets/58451379/87f7ad06-8049-498d-ba66-7c0232f71a9f)
 
 
 ## XR비즈니스 기획
 - 8일간 VR 3D게임 제작 프로젝트를 수행하였습니다.(게임잼 형태)
-- https://github.com/CHULBOONG/SpiritEscape <br/><br/>
+- https://github.com/CHULBOONG/SpiritEscape <br/>
 - https://www.youtube.com/watch?v=LuFdNdXGv4o <br/><br/>
 
 # <게임 외 링크>
