@@ -9,18 +9,21 @@
 (https://github.com/CHULBOONG/GameDesigner/blob/main/metaphor.md)
 
 # <게임 관련 링크>
-## XR비즈니스 기획
-- 8일간 VR 3D게임 제작 프로젝트를 수행하였습니다.(게임잼 형태)
-- https://github.com/CHULBOONG/SpiritEscape <br/><br/>
-
 
 ## 아쿠아로드 지역 퀘스트 시나리오 기획서 포트폴리오 영상 버전
 - 포트폴리오를 게임 제작 툴 RenPy로 구현하고 영상편집 툴로 수정하였습니다.
 - https://www.youtube.com/watch?v=bgUiA0zsxG4   <br/><br/>
 
 ## 창작 비주얼노벨 영상 링크
-- 제작 영상을 곧 올릴 예정입니다.
+- 현재 개발 진행중인 게임이다보니 완성본이 아니지만 지금까지의 구현 내용들
 - (링크 추가 예정)   <br/><br/>
+![image](https://github.com/CHULBOONG/GameDesigner/assets/58451379/87f7ad06-8049-498d-ba66-7c0232f71a9f)
+
+
+## XR비즈니스 기획
+- 8일간 VR 3D게임 제작 프로젝트를 수행하였습니다.(게임잼 형태)
+- https://github.com/CHULBOONG/SpiritEscape <br/><br/>
+- https://www.youtube.com/watch?v=LuFdNdXGv4o <br/><br/>
 
 # <게임 외 링크>
 ## 2022-2 인공지능과 보안기술 사이버 침해사고 예측 HAI Colab
