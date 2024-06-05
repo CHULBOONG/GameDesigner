@@ -25,12 +25,13 @@
 - https://www.youtube.com/watch?v=bgUiA0zsxG4   <br/><br/>
 
 ## 창작 비주얼노벨 영상 링크
-- 현재 개발 진행중인 게임이다보니 완성본이 아니지만 지금까지의 구현 내용들을 보여주는 영상 링크입니다.
-- https://www.youtube.com/watch?v=L8TZdlRY0wE   <br/><br/>
+- 공백 기간동안 진행한 Unreal Engine 기반 비주얼노벨 게임을 제작하고 있습니다.
+- 현재 개발 진행중인 게임이다보니 완성본이 아니지만 4월까지의 구현 내용들을 보여주는 영상 링크입니다.
+- - https://www.youtube.com/watch?v=L8TZdlRY0wE   <br/><br/>
 
 
 ## XR비즈니스 기획
-- 8일간 VR 3D게임 제작 프로젝트를 수행하였습니다.(게임잼 형태)
+- 8일간 Unity Engine 기반 VR 3D게임 제작 프로젝트를 수행하였습니다.(게임잼 형태)
 - https://github.com/CHULBOONG/SpiritEscape <br/>
 - https://www.youtube.com/watch?v=LuFdNdXGv4o <br/><br/>
 
