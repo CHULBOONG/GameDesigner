@@ -13,7 +13,7 @@
 
 # <진행 중인 자격증 시험>
 ## 게임기획전문가
-- 2024 상반기 1회차 시험 필기 접수, 현재 필기 합격 상태입니다. 실기 시험은 아직 치르지 않았습니다.<br/><br/>
+- 2024 상반기 1회차 시험 필기 접수, 현재 필기 합격 상태입니다. 실기 시험은 아직 치르지 않았습니다.(24/06/29 실기 예정)<br/><br/>
 ![image](https://github.com/CHULBOONG/GameDesigner/assets/58451379/236a378c-097b-4a35-9e6a-ac959a67023a)
 
 <br/><br/>
@@ -23,10 +23,6 @@
 - 자유로운 양식으로 게임 플레이 스터디에서 하는 게임의 후기글을 작성하는 블로그입니다. 시작한지 얼마 되지 않아 글이 적은 편입니다.
 - https://carpgamedesign.tistory.com/   <br/><br/>
 
-
-## 아쿠아로드 지역 퀘스트 시나리오 기획서 포트폴리오 영상 버전
-- 포트폴리오를 게임 제작 툴 RenPy로 구현하고 영상편집 툴로 수정하였습니다.
-- https://www.youtube.com/watch?v=bgUiA0zsxG4   <br/><br/>
 
 ## 창작 비주얼노벨 영상 링크
 - 공백 기간동안 진행한 Unreal Engine 기반 비주얼노벨 게임을 제작하고 있습니다.
@@ -38,6 +34,10 @@
 - 8일간 Unity Engine 기반 VR 3D게임 제작 프로젝트를 수행하였습니다.(게임잼 형태)
 - https://github.com/CHULBOONG/SpiritEscape <br/>
 - https://www.youtube.com/watch?v=LuFdNdXGv4o <br/><br/>
+
+## 아쿠아로드 지역 퀘스트 시나리오 기획서 포트폴리오 영상 버전
+- 포트폴리오를 게임 제작 툴 RenPy로 구현하고 영상편집 툴로 수정하였습니다.
+- https://www.youtube.com/watch?v=bgUiA0zsxG4   <br/><br/>
 
 # <게임 외 링크>
 ## 2022-2 인공지능과 보안기술 사이버 침해사고 예측 HAI Colab
