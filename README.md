@@ -4,7 +4,7 @@
 감사합니다! <br/><br/>
 
 원신 분석서에 pdf로 저장하는 과정에서 shift Enter 줄바꿈이 일부 적용되지 않는 오류를 발견하여 다시 업로드하였습니다.
-https://github.com/CHULBOONG/GameDesigner/blob/main/Contents/%EA%B9%80%EB%AF%BC%EC%B2%A0_%EC%98%A4%ED%94%88%EC%9B%94%EB%93%9CRPG%20%EC%9B%90%EC%8B%A0%20%EC%BD%98%ED%85%90%EC%B8%A0%20%EB%B6%84%EC%84%9D%EC%84%9C.pdf
+Contents/김민철_오픈월드RPG 원신 콘텐츠 분석서.pdf
 
 아래는 포트폴리오 외 내용들에 대한 설명입니다. <br/><br/>
 
